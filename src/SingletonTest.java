@@ -28,7 +28,6 @@ class TestSingleton{
     // Static object //
     static TestSingleton aobject = new TestSingleton();
 
-
     // Constructor of this class
     // Here private constructor is used to
     // restricted to this class itself
